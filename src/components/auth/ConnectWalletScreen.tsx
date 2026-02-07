@@ -47,7 +47,7 @@ export function ConnectWalletScreen() {
         </motion.div>
 
         <h1 className="text-3xl font-bold mb-3">
-          <span className="gradient-text">SafeReport</span>
+          <span className="gradient-text">CivicGuard</span>
         </h1>
         <p className="text-lg text-muted-foreground mb-2">
           Kozhikode Anonymous Reporting
